@@ -22,11 +22,6 @@ It also provided a good opportunity to develop skills and experience in a range 
 1. Orchestrate with [Airflow](https://airflow.apache.org) in [Docker](https://www.docker.com)
 1. Create AWS resources with [Terraform](https://www.terraform.io)
 
-## Output
-
-[<img src="https://github.com/ABZ-Aaron/Reddit-API-Pipeline/blob/master/images/GDS-Dashboard.png" width=70% height=70%>](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
-
-* Final output from Google Data Studio. Link [here](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18). Note that Dashboard is reading from a static CSV output from Redshift. Redshift database was deleted so as not to incur cost.
 
 ## Setup
 
