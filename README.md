@@ -4,10 +4,6 @@ A data pipeline to extract Reddit data from [r/dataengineering](https://www.redd
 
 Output is a Google Data Studio report, providing insight into the Data Engineering official subreddit.
 
-## Motivation
-
-Project was based on an interest in Data Engineering and the types of Q&A found on the official subreddit. 
-
 It also provided a good opportunity to develop skills and experience in a range of tools. As such, project is more complex than required, utilising dbt, airflow, docker and cloud based storage.
 
 ## Architecture
