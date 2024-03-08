@@ -1,6 +1,7 @@
 # Overview
 
-This pipeline was designed not only to create a dashboard, but to gain exposure to a range of tools, develop new skills, and hopefully provide help to others.
+This pipeline was designed not only to create a dashboard, but to gain exposure to a range of tools and develop new skills.
+
 ## How this pipeline works
 
 There is one DAG (pipeline) running which extracts Reddit data from its API using Python's [PRAW](https://praw.readthedocs.io/en/stable/) API wrapper. 
